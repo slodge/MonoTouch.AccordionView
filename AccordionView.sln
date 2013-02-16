@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cirrious.Touch.Controls.AccordionView", "Cirrious.Touch.Controls.AccordionView\Cirrious.Touch.Controls.AccordionView.csproj", "{D0918F82-B25E-4FC6-80D9-2B3D822405A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8DF59C2B-0CDF-4263-9C90-04FE3981EE0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccordionView.Sample", "AccordionView.Sample\AccordionView.Sample.csproj", "{DE6DC280-ADD8-4F3F-A95C-591A6316D027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0918F82-B25E-4FC6-80D9-2B3D822405A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0918F82-B25E-4FC6-80D9-2B3D822405A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0918F82-B25E-4FC6-80D9-2B3D822405A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0918F82-B25E-4FC6-80D9-2B3D822405A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Release|iPhone.Build.0 = Release|iPhone
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DE6DC280-ADD8-4F3F-A95C-591A6316D027}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Cirrious.Touch.Controls.AccordionView\Cirrious.Touch.Controls.AccordionView.csproj
+	EndGlobalSection
+EndGlobal
