@@ -4,6 +4,10 @@ This AccordionView provides a MonoTouch port of the simple accordion view from h
 
 This port is slightly different from the original - I've tweaked some of the scrolling and single/multi open properties.
 
+## Video
+
+http://www.youtube.com/watch?v=ky1_6jOLrZI
+
 ## License
 
 This port is licensed MS-PL - see http://opensource.org/licenses/MS-PL
